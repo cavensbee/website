@@ -1,0 +1,70 @@
+*{margin:0; top: 0;}
+
+.wrap{margin: 0 auto; width: 940px; }
+
+.head span{float: right; margin-top: 20px; font-size: 13px; line-height:25px; color: #5a5a5a; }
+
+.head ul{ width: 100%; background:url(file:///I|/station/navbg.gif) no-repeat; margin-top: 15px; height: 36px;}
+
+.head ul{ width: 94%; overflow: hidden;}
+
+.head ul li{ list-style: none; float:left;}
+
+.head ul li a{
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	height: 30px;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: bold;
+	margin-left: 30px;
+	padding-top: 7px;
+	color: white;
+}
+.left{float: left;}
+#h2{ margin-left: 140px; }
+#h1{ color:black; background:url(file:///I|/station/home.gif) 0 4px no-repeat; width: 88px; }
+.left{  width:600px; margin-top: 12px;}
+.left h2{ float: left; background: url(..//images/banner.png) no-repeat;width:100%;height:200px;}
+.h3 a:hover{text-decoration: underline;}
+.h3 strong a{ float: left; margin-top: 20px; font-size: 15px; }
+.h3 span a{ float:right; margin-top: 20px; font-size: 12px; }
+.h3 a{font-family: "微软雅黑"; text-decoration: none;}
+.h30{margin-top: 25px;}
+#h31{font-size: 14px; font-weight: bold;}
+
+.disline{width: 100%;overflow: hidden; border-bottom: 1px solid #ccc; padding-top: 5px;}
+
+.m1{width: 100%; overflow: hidden; padding: 14px 0; line-height:25px; position: relative;}
+.img11{float: left;}
+.m11{position: absolute; top: 14px; right: 0; font-size: 12px;}
+.m11 img{margin-top: 10px;}
+.m1 strong a{margin-left: 15px; font-size: 15px;}
+.m1 .m10{margin-left: 7px; font-size: 12px; color:#948E95;}
+.m1 p{width:100%; overflow: hidden; margin-left: 45px; font-size: 15px;}
+.img12{margin-left: 4px;}
+.m1 a:hover{text-decoration: none;}
+
+.right{width:300px; margin-top: 12px; float: right;}
+.right p{width: 100%;overflow: hidden; float: left;font-size: 14px; font-weight: bold; margin-top: 10px;}
+.right ul{float: left;margin-top: 10px; margin-left: 0;padding-left: 0;}
+.t2 li a{text-decoration: none; font-size: 12px;line-height: 20px;}
+.t2 li a:hover{text-decoration: underline;}
+.t2{margin-bottom: 14px;}
+
+.r1{width: 100%; overflow: hidden; padding:16px 0 3px 0; position: relative;}
+.r1 img{float: left;}
+.r10 a{  font-size: 13px; text-decoration: none; margin-left: 5px; margin-bottom: 1px;}
+.r10 a:hover{text-decoration: underline;}
+.r11{position: absolute; top: 16px; right: 0; font-size: 12px;}
+.r11 img{margin-top: 3px; margin-right: 5px;}
+.r11 a:hover{text-decoration: none;}
+
+.t4 {margin-top: 12px; line-height: 25px;}
+.t4 a{text-decoration: none; margin:10px 14px;  font-size: 12px;}
+.t4 a:hover{text-decoration: underline;}
+
+.footer{width: 100%;overflow: hidden;height:120px;}
+.footline{width: 100%;overflow: hidden; border-bottom: 1px solid #DED9D9; margin-top:30px; margin-bottom: 25px;}
+.footer p{text-align: center; font-size: 13px; line-height: 25px; color:#A6A0A0;}
